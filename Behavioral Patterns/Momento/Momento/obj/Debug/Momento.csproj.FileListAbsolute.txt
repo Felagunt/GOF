@@ -1,0 +1,6 @@
+c:\users\best\documents\visual studio 2015\Projects\Momento\Momento\bin\Debug\Momento.exe.config
+c:\users\best\documents\visual studio 2015\Projects\Momento\Momento\bin\Debug\Momento.exe
+c:\users\best\documents\visual studio 2015\Projects\Momento\Momento\bin\Debug\Momento.pdb
+c:\users\best\documents\visual studio 2015\Projects\Momento\Momento\obj\Debug\Momento.csprojResolveAssemblyReference.cache
+c:\users\best\documents\visual studio 2015\Projects\Momento\Momento\obj\Debug\Momento.exe
+c:\users\best\documents\visual studio 2015\Projects\Momento\Momento\obj\Debug\Momento.pdb

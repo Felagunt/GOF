@@ -1,0 +1,6 @@
+c:\users\best\documents\visual studio 2015\Projects\Borrow\Borrow\bin\Debug\Borrow.exe.config
+c:\users\best\documents\visual studio 2015\Projects\Borrow\Borrow\bin\Debug\Borrow.exe
+c:\users\best\documents\visual studio 2015\Projects\Borrow\Borrow\bin\Debug\Borrow.pdb
+c:\users\best\documents\visual studio 2015\Projects\Borrow\Borrow\obj\Debug\Borrow.csprojResolveAssemblyReference.cache
+c:\users\best\documents\visual studio 2015\Projects\Borrow\Borrow\obj\Debug\Borrow.exe
+c:\users\best\documents\visual studio 2015\Projects\Borrow\Borrow\obj\Debug\Borrow.pdb
